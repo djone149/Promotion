@@ -1,0 +1,8 @@
+{
+  "name": "PROPEL — Promotion OS",
+  "short_name": "PROPEL",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080f1d",
+  "theme_color": "#080f1d"
+}
